@@ -1,13 +1,13 @@
 {
     "homepage": "https://github.com/Open-Shell/Open-Shell-Menu",
-    "version": "4.4.131",
+    "version": "4.4.152",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Open-Shell/Open-Shell-Menu/releases/download/v4.4.131/OpenShellSetup_4_4_131.exe",
+            "url": "https://github.com/Open-Shell/Open-Shell-Menu/releases/download/v4.4.152/OpenShellSetup_4_4_152.exe",
             "extract_dir": "open-shell-$version-win32"
         },
         "32bit": {
-            "url": "https://github.com/Open-Shell/Open-Shell-Menu/releases/download/v4.4.131/OpenShellSetup_4_4_131.exe",
+            "url": "https://github.com/Open-Shell/Open-Shell-Menu/releases/download/v4.4.152/OpenShellSetup_4_4_152.exe",
             "extract_dir": "open-shell-$version-win32"
         }
     },
